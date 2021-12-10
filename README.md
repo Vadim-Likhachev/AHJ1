@@ -43,3 +43,4 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/2ug0xnq8m073oobu/branch/main?svg=true)](https://ci.appveyor.com/project/Vadim-Likhachev/ahj1/branch/main)
