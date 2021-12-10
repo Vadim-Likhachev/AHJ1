@@ -23,8 +23,11 @@
     "@babel/cli": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
     "core-js": "3",
+    "html-minifier-terser": "^7.0.0-alpha.0",
     "html-webpack-plugin": "^5.5.0",
-    "mini-css-extract-plugin": "^2.4.5"
+    "mini-css-extract-plugin": "^2.4.5",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
+    "terser-webpack-plugin": "^5.2.5"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
